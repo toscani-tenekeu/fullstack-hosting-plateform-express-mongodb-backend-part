@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GPL-3.0-only",
   "type": "commonjs",
   "dependencies": {
     "@clerk/express": "^2.1.23",
